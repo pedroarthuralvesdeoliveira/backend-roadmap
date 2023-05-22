@@ -1,2 +1,1 @@
--
-title:: How does the internet work?//cs.fyi
+- ## Introduction to the internet
