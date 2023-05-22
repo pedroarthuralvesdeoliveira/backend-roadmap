@@ -1,4 +1,4 @@
 - ## What is a Network
 - Is a group of computers or other devices which are connected to each other.
 -
--
+- At a high level, the internet works by connecting devices and computer systems together using a set of standardized protocols. These protocols define how information is exchanged between devices and ensure that data is transmitted reliably and securely.
