@@ -1,3 +1,4 @@
 - ## [Introduction to the internet](https://cs.fyi/guide/how-does-internet-work#introduction-to-the-internet)
 - ## [How the internet works](https://cs.fyi/guide/how-does-internet-work#how-the-internet-works-an-overview)
-- ## Basic concepts
+- ## [Basic concepts and terminology](https://cs.fyi/guide/how-does-internet-work#basic-concepts-and-terminology)
+-
