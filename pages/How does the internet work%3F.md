@@ -4,4 +4,4 @@
 - ## [Understanding IP Adresses and Domain Names](https://cs.fyi/guide/how-does-internet-work#understanding-ip-addresses-and-domain-names)
 - ## [Introduction to HTTP and HTTPS](https://cs.fyi/guide/how-does-internet-work#introduction-to-http-and-https)
 - ## [Building Applications with TCP/IP](https://cs.fyi/guide/how-does-internet-work#building-applications-with-tcpip)
-- ## [Securing Internet Communication ]()
+- ## [Securing Internet Communication with SSL/TLS](https://cs.fyi/guide/how-does-internet-work#securing-internet-communication-with-ssltls)
