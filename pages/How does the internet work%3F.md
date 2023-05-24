@@ -2,4 +2,6 @@
 - ## [How the internet works](https://cs.fyi/guide/how-does-internet-work#how-the-internet-works-an-overview)
 - ## [Basic concepts and terminology](https://cs.fyi/guide/how-does-internet-work#basic-concepts-and-terminology)
 - ## [Understanding IP Adresses and Domain Names](https://cs.fyi/guide/how-does-internet-work#understanding-ip-addresses-and-domain-names)
-- ## [](https://cs.fyi/guide/how-does-internet-work#introduction-to-http-and-https)
+- ## [Introduction to HTTP and HTTPS](https://cs.fyi/guide/how-does-internet-work#introduction-to-http-and-https)
+- ## [Building Applications with TCP/IP](https://cs.fyi/guide/how-does-internet-work#building-applications-with-tcpip)
+- ## [Securing Internet Communication ]()
