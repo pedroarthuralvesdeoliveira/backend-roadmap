@@ -1,1 +1,3 @@
-- ## Resorc
+- ## [Resource one](https://cs.fyi/guide/http-in-depth)
+- ## [Resource two - Cloudflare](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
+- ## [Resource three - Smashing Magazine](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
